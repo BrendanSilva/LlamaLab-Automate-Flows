@@ -1,2 +1,2 @@
 # LlamaLab Automate Flows
-Some automation flows for LlamaLab Automate (for Android Oreo).
+Some automation flows for LlamaLab Automate (tested on Android Oreo).
