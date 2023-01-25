@@ -1,0 +1,1 @@
+Fun hacks for the java game ShadoWalker (Glu Mobile), version 1.0.6, developed for Symbian. Make sure the game version is correct or the save file could be irreparably corrupted. You must have J2ME Loader.

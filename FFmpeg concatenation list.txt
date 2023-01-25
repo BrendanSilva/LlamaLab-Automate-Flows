@@ -1,0 +1,7 @@
+﻿This flowchart creates a file concatenation list for FFmpeg, which includes media start and end timecodes. This feature can be used as a very simple video editor or slideshow maker.
+
+☛ Important:
+
+Concatenation can be a little problematic depending on the type of media to be merged. To avoid problems, please read the following article carefully:
+
+https://trac.ffmpeg.org/wiki/Concatenate

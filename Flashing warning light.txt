@@ -1,0 +1,1 @@
+For emergencies, this flashing warning light works conditionally to save battery. Tap the notification or schedule a time to turn it off.

@@ -1,0 +1,1 @@
+This flow produces an audible alert when the phone is not charging as it should. It can be useful when the cable or power supply fails.

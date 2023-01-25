@@ -1,0 +1,1 @@
+This flow provides a simple flashing warning light for emergency situations. Tap the notification to turn it off.

@@ -1,0 +1,9 @@
+﻿The two dates must be between December 13, 1901 and January 19, 2038*; otherwise, the result will be uncertain. Leap years are also automatically calculated.
+
+☛ Important:
+
+Dates are calculated in Unix Timestamp format, but converted to and from the Gregorian calendar. Honestly, this flow isn't the best option, but it does the trick.
+
+* This limitation is not an Automate issue. To learn more, please read the following Wikipedia article:
+
+https://en.m.wikipedia.org/wiki/Year_2038_problem
