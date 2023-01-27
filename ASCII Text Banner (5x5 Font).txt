@@ -1,0 +1,7 @@
+﻿This flow works like the console/terminal/shell FIGlet, drawing letters in ASCII art of 5x5 characters in size. The font used by this flowchart is taken from the following script, but some characters have been added:
+
+https://github.com/BrendanSilva/BatchScript/blob/main/ebig.cmd
+
+☛  Important:
+
+Of course, you have to paste the generated "banner" into any text field that uses a monospaced typeface (Courier, Droid Sans, Fixedsys, Lucida Console, etc.).
