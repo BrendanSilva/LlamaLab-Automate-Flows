@@ -1,1 +1,0 @@
-A simple, rudimentary, low-features, but handy compression ratio calculator. Compressed and uncompressed sizes must always have the same unit.
