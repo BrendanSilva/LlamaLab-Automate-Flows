@@ -1,5 +1,0 @@
-﻿Like antique clocks that chime the time audibly on a bell or gong, this little flow makes the phone vibrate to announce the time every hour. This works like a cuckoo clock, but uses vibration instead of sound. Simple like that.
-
-☛ Important:
-
-According to Automate developer, accurate timing is impossible on Android 6+, but it can be improved by enabling "Timing accuracy workaround" option in settings. Please read the Automate help guide for more information.
