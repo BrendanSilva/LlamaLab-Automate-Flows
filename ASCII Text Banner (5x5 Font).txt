@@ -1,9 +1,0 @@
-﻿This flowchart works like the console/terminal/shell FIGlet, drawing letters in ASCII art of 5x5 characters in size. The font was copied from the following script:
-
-https://github.com/BrendanSilva/BatchScript/blob/main/ebig.cmd
-
-☛  Important:
-
-▪  To see the output correctly, you have to paste the generated "banner" into any text field that uses a monospaced typeface (Courier, Droid Sans, Fixedsys, Lucida Console, etc.).
-
-▪  To see the list of all supported emoticons and dingbats, open flowchart block number 6. For some unknown reason, the Automate community doesn't allow me to put the list in the description.
