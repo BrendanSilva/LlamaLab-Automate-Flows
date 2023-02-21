@@ -1,7 +1,0 @@
-﻿This flow creates a small HTML file that draws a custom clock on the screen. You must have Google Chrome to use this flow.
-
-☛ No full screen option:
-
-This limitation is not an Automate issue. For security reasons, the full screen option is disabled on Android.
-
-To enable it, you need to enter developer mode and use ADB (Android Debug Bridge) to grant "Immersive Mode" permission to Google Chrome. This process can be a little tricky depending on your device.
