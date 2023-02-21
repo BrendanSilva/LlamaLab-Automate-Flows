@@ -1,9 +1,0 @@
-﻿To use this flow, you need the app "Screenshot Tile (No Root)" (app id: "com.github.cvzi.screenshottile"), by Cuzi, available on F-Droid, GitHub and Play Store. It is free, open source and ad-free.
-
-☛ How to use:
-
-1)  Install the app. Follow the setup instructions in the built-in tutorial and set a password in the "Show password" field. Go to "Advanced settings" and set the timeout/delay to 0 (zero) milliseconds.
-
-2)  Open the diagram of this flow. Edit the "Send broadcast" block, inserting the previously defined password in the "Extras" field.
-
-3)  That's it. When you run this flow, the screenshot will be taken. This is considerably faster than Automate's default screenshot function.
