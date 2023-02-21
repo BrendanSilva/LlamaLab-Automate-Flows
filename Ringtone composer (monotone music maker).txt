@@ -1,0 +1,112 @@
+﻿Tested on Android Oreo only. This flow generates small audio samples (unsigned 8000Hz PCM) to simulate a slow, imperfect and very limited but fun music composition program.
+
+More songs will be added with flowchart updates.
+
+
+☛ Important:
+
+A folder named "AutomateSoundCache" will be created at the root of the SD card. This is used to store temporary audio samples that help greatly speed up the music "export" process.
+
+However, the caching of these files is all logged, making the log file very large. Therefore, it is highly recommended to disable flow logging.
+
+
+☛ Composing:
+
+Musical notes are written as follows, without quotes: "octave,name,duration". Write them in sequence, interspersed with white space.
+
+It is possible to use 7 octaves for the notes: C, D, E, F, G, A, B and for the semitones/half-step: Cs (C#), Ds (D#), Fs (F#), Gs (G#), As (A#). The pseudo-note "R" will generate static noise which is useful for simulating short beats.
+
+The tone duration is based on the relative length of the sample, which ranges from 1 (62 ms) to 16 (1s).
+
+
+☛ Using a text editor:
+
+Create a file named "melody.txt" and save it in the cache folder. You can use it to modify the composition with your favorite text editor. Lines starting with a comment marker "//" are ignored.
+
+
+☛  Table of notes and approximate frequencies:
+
+0033 Hz 1-C
+0035 Hz 1-C#
+0037 Hz 1-D
+0039 Hz 1-D#
+0042 Hz 1-E
+0044 Hz 1-F
+0047 Hz 1-F#
+0049 Hz 1-G
+0052 Hz 1-G#
+0055 Hz 1-A
+0059 Hz 1-A#
+0062 Hz 1-B
+0066 Hz 2-C
+0070 Hz 2-C#
+0074 Hz 2-D
+0078 Hz 2-D#
+0083 Hz 2-E
+0088 Hz 2-F
+0093 Hz 2-F#
+0098 Hz 2-G
+0104 Hz 2-G#
+0110 Hz 2-A
+0117 Hz 2-A#
+0124 Hz 2-B
+0131 Hz 3-C
+0139 Hz 3-C#
+0147 Hz 3-D
+0156 Hz 3-D#
+0165 Hz 3-E
+0175 Hz 3-F
+0185 Hz 3-F#
+0195 Hz 3-G
+0207 Hz 3-G#
+0219 Hz 3-A
+0232 Hz 3-A#
+0245 Hz 3-B
+0259 Hz 4-C
+0275 Hz 4-C#
+0291 Hz 4-D
+0307 Hz 4-D#
+0325 Hz 4-E
+0345 Hz 4-F
+0364 Hz 4-F#
+0384 Hz 4-G
+0407 Hz 4-G#
+0429 Hz 4-A
+0454 Hz 4-A#
+0480 Hz 4-B
+0507 Hz 5-C
+0536 Hz 5-C#
+0566 Hz 5-D
+0597 Hz 5-D#
+0630 Hz 5-E
+0668 Hz 5-F
+0702 Hz 5-F#
+0741 Hz 5-G
+0782 Hz 5-G#
+0823 Hz 5-A
+0867 Hz 5-A#
+0914 Hz 5-B
+0962 Hz 6-C
+1012 Hz 6-C#
+1066 Hz 6-D
+1118 Hz 6-D#
+1175 Hz 6-E
+1237 Hz 6-F
+1293 Hz 6-F#
+1355 Hz 6-G
+1420 Hz 6-G#
+1483 Hz 6-A
+1550 Hz 6-A#
+1619 Hz 6-B
+1686 Hz 7-C
+1754 Hz 7-C#
+1822 Hz 7-D
+1888 Hz 7-D#
+1953 Hz 7-E
+2019 Hz 7-F
+2074 Hz 7-F#
+2127 Hz 7-G
+2176 Hz 7-G#
+2213 Hz 7-A
+2243 Hz 7-A#
+2261 Hz 7-B

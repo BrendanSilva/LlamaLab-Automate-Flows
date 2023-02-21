@@ -1,0 +1,9 @@
+﻿To use this flow, you need the "Remote Notifier" app (id: "org.damazio.notifier"), by Rodrigo Damazio, available on F-Droid and GitHub. It is free, open source and ad-free.
+
+☛ How to use:
+
+1)  After installing the app, follow the instructions to install the notification server for Windows, Linux or Mac OS. It is a small and lightweight Java program, so you will need the Java Virtual Machine.
+
+2)  Configure the server to receive messages from 'third-party applications' and set a password. Go back to the application and enter the server's local network address.
+
+3)  Now just run this flow by typing the custom message. That is all. Edit this flow as you wish.

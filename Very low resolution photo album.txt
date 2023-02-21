@@ -1,0 +1,9 @@
+﻿A mini showcase containing 22 low-resolution, low-color images that are displayed using web dialogs and JavaScript. Each image is stored in a shrunken string of 896 characters, totaling approximately 19KB.
+
+•  You can download the source code of the converter (written in Delphi) from the link below. It converts a bitmap into a hex-encoded 56x56 4-color image:
+
+https://github.com/BrendanSilva/Object-Pascal/blob/main/bmp4cjs.txt
+
+•  The flowchart that shrinks the hex string can be downloaded by clicking on my username (Brendan Silva) or the following link:
+
+https://llamalab.com/automate/community/flows/44357

@@ -1,0 +1,7 @@
+﻿A simple flow that encrypts texts using character rotation. This encryption method is archaic and insecure. While not unbreakable against brute force software, it successfully prevents any snooper from reading your messages.
+
+☛ Important:
+
+•  Only US-ASCII characters are accepted. This means you shouldn't use emojis, styled text or Unicode characters.
+
+•  The password length is arbitrary. For this encryption method, longer passwords do not mean greater security, but I recommend that you use at least 4 characters.

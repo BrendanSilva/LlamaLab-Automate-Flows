@@ -1,0 +1,7 @@
+﻿To use this flowchart, you need 'lWS' app (id: net.basov.lws.fdroid), version 7.0 or newer, available for download from:
+
+https://play.google.com/store/apps/details?id=net.basov.lws.r
+
+☛ How to use:
+
+That's kinda simple: install the app, edit the second block of this flowchart, storing all web server file locations in the "document_root" array variable and run it.

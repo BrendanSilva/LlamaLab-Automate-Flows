@@ -1,0 +1,5 @@
+﻿Tested on Android Oreo only. This flow tries to close application popups that use Google's ad engine.
+
+☛ Important:
+
+This doesn't work for your internet browser. It works for Android system popups like advertising screens and app recommendations.

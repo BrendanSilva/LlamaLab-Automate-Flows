@@ -1,0 +1,9 @@
+﻿This flowchart provides two "compression" (encoding) methods:
+
+•  Basic/US-ASCII (64 characters). The compression ratio is 1.5, resulting in a space gain of up to 33%. This can save a bit more space than the Automate "base64Encode" function, which necessarily expects and outputs UTF-8 text.
+
+•  Extended/ISO-LATIN-1 (128 characters). The compression ratio is 1.75, resulting in a space gain of approximately 43%. To ensure space saving effectiveness, you should always use "CP-1252" or "DOS West European" encodings when saving compressed text to file.
+
+☛  Important:
+
+Leading zero characters will always be ignored, but you can avoid this problem by adding a non-zero header to the input string.
