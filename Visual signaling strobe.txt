@@ -1,1 +1,0 @@
-This flow uses web dialogs and JavaScript to simulate a strobe on the display. You can create your own strobe pattern and save it to an HTML file.
