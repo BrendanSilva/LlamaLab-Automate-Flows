@@ -1,7 +1,0 @@
-﻿Tested on Android Oreo only. You must also have the "lDosBox 2.0" application (app id: "lb.myapp.ldosbox").
-
-This flow uses lDosBox as a safe way to delete files. Useful for getting rid of junk that contains sensitive information. Only files up to 4 GB can be deleted.
-
-☛ Caution!
-
-This flow asks for confirmation before deleting a file. Please double check before confirming. Be careful as deleted files can no longer be recovered by any method.
