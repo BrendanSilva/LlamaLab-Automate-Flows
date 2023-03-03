@@ -1,0 +1,13 @@
+﻿This flow reconfigures the lWS working directory and restarts the server.
+
+☛ How to use:
+
+To use this flowchart, you need lWS app, version 7.0 or newer, available for download on F-Droid (id: "net.basov.lws.fdroid") and Google Play Store (id: "net.basov.lws.r"). This is a basic, small and lightweight web server that is free, open source and ad-free.
+
+https://play.google.com/store/apps/details?id=net.basov.lws.r
+
+First, install the app. Then edit the second block of this flowchart by entering all web server root paths into the "document_root" array variable. Finally, run it.
+
+☛  Important:
+
+Carefully read the "Security Warnings" section in the app description before using this flow.
