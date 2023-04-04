@@ -1,0 +1,1 @@
+A simple, rudimentary, low-features, but handy cylinder-head-sector calculator for single-sided data storage disks. Useful for calculating the geometry of virtual hard disk images for Bochs, PCem and DOSBox.
