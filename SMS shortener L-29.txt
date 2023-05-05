@@ -1,9 +1,0 @@
-﻿This flow tries to reduce the length of a single line of text to make better use of space in phone messaging services. This compression method only allows the entry of capital letters, space, "." and "?". However, there are advantages.
-
-1)  No redundancy dictionary is built in, which means that even very short messages can be compressed.
-
-2)  The method directly translates the US ASCII printable character table into a 29-character pseudo-alphabet, which makes the compression ratio predictable (approximately 4/3). For example, if the messaging service allows up to 140 characters, you will be able to write approximately 180.
-
-☛ Important:
-
-As you know, of course, the receiver also needs to have this flow to 'decompress' the message. This flow doesn't send any SMS, but you can edit it to do that if you want.
